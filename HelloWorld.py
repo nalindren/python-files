@@ -7,3 +7,5 @@ elif mysalary ==salary:
     print("Good Salary")
 else:
     print("low salary")
+    print ("")
+    print()
